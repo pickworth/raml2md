@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "commander": "2.9.x",
-    "nunjucks": "2.2.x",
+    "nunjucks": "3.2.1",
     "raml2obj": "2.2.x",
     "q": "1.4.x"
   },
